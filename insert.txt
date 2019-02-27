@@ -1,0 +1,8 @@
+INSERT INTO `employees`(`fname`, `lname`, `title`, `age`, `salary`, `DateTime_created`) VALUES ('jonie','weber','secretary',28,19500.00,NOW());
+INSERT INTO `employees`(`fname`, `lname`, `title`, `age`, `salary`, `DateTime_created`) VALUES ('potsy','weber','mister',32,45300,NOW());
+INSERT INTO `employees`(`fname`, `lname`, `title`, `age`, `salary`, `DateTime_created`) VALUES ('dirk','smith','mister',45,75020,NOW());
+INSERT INTO `employees`(`fname`, `lname`, `title`, `age`, `salary`, `DateTime_created`) VALUES ('gabriel','aves','mister',18,1500,NOW());
+INSERT INTO `employees`(`fname`, `lname`, `title`, `age`, `salary`, `DateTime_created`) VALUES ('iris','manimtim','miss',17,1500,NOW());
+INSERT INTO `employees`(`fname`, `lname`, `title`, `age`, `salary`, `DateTime_created`) VALUES ('czarina','nario','miss',12,1000,NOW());
+INSERT INTO `employees`(`fname`, `lname`, `title`, `age`, `salary`, `DateTime_created`) VALUES ('corraine','ocado','miss',17,2000,NOW());
+INSERT INTO `employees`(`fname`, `lname`, `title`, `age`, `salary`, `DateTime_created`) VALUES ('andrea','mejia','miss',18,25000,NOW());
